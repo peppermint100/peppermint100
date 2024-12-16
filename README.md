@@ -1,4 +1,4 @@
-## 안녕하세요 개발자 이인규입니다. 👋
+## 안녕하세요 3년차 백엔드 개발자 이인규입니다. 👋
 
 코드로 주변 사람들을 도와주는 경험이 즐거워 개발자를 선택한 이인규입니다.
 
@@ -20,17 +20,14 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-69D2E7?style=flat&logo=swift&logoColor=white)
-<!--
-**peppermint100/peppermint100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 최근까지 [쿠스토랑](https://github.com/kustaurant) 프로젝트를 진행했습니다.
+- 지금은 [Java, Spring Boot 기반의 MSA 앱](https://github.com/peppermint100/spring-boot-msa-ecs-jenkins)을 ECS에 배포하는 연습을 하고 있습니다.
+- 현재 구직 중입니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Contact Me  
+- ✉️ Email: krpeppermint100@gmail.com  
+- 🌐 Blog: [Velog](https://velog.io/@peppermint100/posts)
+
+
+
