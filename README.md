@@ -22,7 +22,7 @@
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-69D2E7?style=flat&logo=swift&logoColor=white)
 
 - 최근까지 [쿠스토랑](https://github.com/kustaurant) 프로젝트를 진행했습니다.
-- 지금은 [Java, Spring Boot 기반의 MSA 앱](https://github.com/peppermint100/spring-boot-msa-ecs-jenkins)을 ECS에 배포하는 연습을 하고 있습니다.
+- 지금은 [Java, Spring Boot 기반의 MSA 앱](https://github.com/peppermint100/spring-boot-msa-ecs-jenkins)을 AWS ECS에 배포하는 학습 중 입니다.
 - 현재 [구직 중](https://drive.google.com/file/d/1CYzzXuepi6SOCTLJ0wKr38p8b9N8W7pH/view?usp=sharing)입니다.
 
 ## 📬 Contact Me  
