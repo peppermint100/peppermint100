@@ -3,13 +3,14 @@
 코드로 주변 사람들을 도와주는 경험이 즐거워 개발자를 선택한 이인규입니다.
 
 기술, 기능 개발 뿐만 아니라 업무의 프로세스와 제품 자체에도 애정을 가지고 일하는 것을 좋아합니다. 쉽게 읽히며 확장성 있는 코드를 좋은 코드라고 생각합니다. 백엔드 뿐만 아니라 다양한 기술에 관심이 있어 새로운 기술을 배우는 것을 좋아합니다. 
-
 ### 🛠 Tech Stack
 #### 🏗️ Backend
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-007ACC?style=flat&logo=java&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 
 #### ☁️ DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -19,6 +20,8 @@
 ![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS_Elastic_Beanstalk-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS CloudFront](https://img.shields.io/badge/AWS_CloudFront-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+![AWS CloudWatch](https://img.shields.io/badge/AWS_CloudWatch-FF9900?style=flat&logo=amazon-cloudwatch&logoColor=white)
 
 #### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -26,6 +29,7 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=flat&logo=apple&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-69D2E7?style=flat&logo=swift&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 #### 👥 Collaboration
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
