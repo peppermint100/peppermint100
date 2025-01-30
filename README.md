@@ -40,9 +40,9 @@
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat&logo=clickup&logoColor=white)
 
 ### 🔍 Current Focus
-- 최근까지 [쿠스토랑](https://github.com/kustaurant) 프로젝트를 진행했습니다.
-- [Kubernetes](https://github.com/peppermint100/kubernetes-walkthrough)에 관심을 가지고 EKS까지 확장하여 공부중입니다.
-- 현재 [구직 중](https://drive.google.com/file/d/1CYzzXuepi6SOCTLJ0wKr38p8b9N8W7pH/view?usp=sharing)입니다.
+- [쿠스토랑](https://github.com/kustaurant) 프로젝트를 진행했습니다.
+- [Kotlin](https://github.com/peppermint100/TIL/tree/master/kotlin) 언어에 익숙해지고 있습니다.
+- [대규모 시스템 설계](https://github.com/peppermint100/system-design-interview-projects)에 관심을 가지고 공부하고 있습니다.
 
 ## 📬 Contact Me
 - ✉️ Email: krpeppermint100@gmail.com  
