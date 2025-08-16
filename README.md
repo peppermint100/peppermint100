@@ -22,6 +22,10 @@ JavaScript, React
 👥 Collaboration    
 Git, GitHub, Bitbucket, Gerrit, Slack, Notion, ClickUp
 
+## Current Focus
+- Terraform
+- 데이터 엔지니어링 핵심 가이드
+
 ## 📬 Contact Me    
 - ✉️ Email: krpeppermint100@gmail.com  
 - 🌐 Blog: [Medium 기술 블로그](https://medium.com/peppermint100)
