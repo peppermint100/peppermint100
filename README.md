@@ -23,8 +23,8 @@ JavaScript, React
 Git, GitHub, Bitbucket, Gerrit, Slack, Notion, ClickUp
 
 ## Current Focus
-- Terraform
-- 데이터 엔지니어링 핵심 가이드
+- [Terraform](https://www.udemy.com/course/best-devops-terraform/)
+- [데이터 파이프라인 핵심 가이드](https://product.kyobobook.co.kr/detail/S000001766501)
 
 ## 📬 Contact Me    
 - ✉️ Email: krpeppermint100@gmail.com  
