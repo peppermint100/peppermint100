@@ -24,7 +24,7 @@ Git, GitHub, Bitbucket, Gerrit, Slack, Notion, ClickUp
 
 ## Current Focus
 - [Terraform](https://www.udemy.com/course/best-devops-terraform/)
-- [데이터 파이프라인 핵심 가이드](https://product.kyobobook.co.kr/detail/S000001766501)
+- [자바 개발자를 위한 데브옵스 툴](https://product.kyobobook.co.kr/detail/S000201449838)
 
 ## 📬 Contact Me    
 - ✉️ Email: krpeppermint100@gmail.com  
