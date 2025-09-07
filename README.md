@@ -11,7 +11,7 @@
 Java, Kotlin, Spring Boot, JPA, QueryDSL
 
 ☁️ DevOps    
-Docker, AWS (EC2, S3, RDS, CloudFront, CloudWatch, Lambda, Beanstalk, CodePipeline), TeamCity
+Docker, AWS (EC2, S3, RDS, CloudFront, CloudWatch, Lambda, Beanstalk, CodePipeline), TeamCity, Terraform
 
 📊 Data    
 Amazon Athena, Apache NiFi, Apache Druid, MySQL, PostgreSQL
@@ -22,7 +22,13 @@ JavaScript, React
 👥 Collaboration    
 Git, GitHub, Bitbucket, Gerrit, Slack, Notion, ClickUp
 
+📜 Certificates
+<div>
+  <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="Terraform Associate" width="200" />
+</div>
+
 ## Current Focus
+- [Kubernetes](https://www.udemy.com/course/certified-kubernetes-application-developer/learn/lecture/12504382#overview)
 - [Terraform](https://www.udemy.com/course/best-devops-terraform/)
 - [자바 개발자를 위한 데브옵스 툴](https://product.kyobobook.co.kr/detail/S000201449838)
 
