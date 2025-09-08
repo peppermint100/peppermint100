@@ -24,12 +24,14 @@ Git, GitHub, Bitbucket, Gerrit, Slack, Notion, ClickUp
 
 📜 Certificates
 <div>
-  <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="Terraform Associate" width="200" />
+  <a href="https://www.credly.com/badges/bf0a43c5-3932-4778-bead-7a7a6c6a81e0" target="_blank">
+    <img src="https://images.credly.com/size/680x680/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="Terraform Associate" width="200" />
+  </a>
 </div>
 
 ## Current Focus
 - [Kubernetes](https://www.udemy.com/course/certified-kubernetes-application-developer/learn/lecture/12504382#overview)
-- [Terraform](https://www.udemy.com/course/best-devops-terraform/)
+- [Terraform](https://www.credly.com/badges/bf0a43c5-3932-4778-bead-7a7a6c6a81e0)
 - [자바 개발자를 위한 데브옵스 툴](https://product.kyobobook.co.kr/detail/S000201449838)
 
 ## 📬 Contact Me    
