@@ -29,11 +29,6 @@ Git, GitHub, Bitbucket, Gerrit, Slack, Notion, ClickUp
   </a>
 </div>
 
-## Current Focus
-- [Kubernetes](https://www.udemy.com/course/certified-kubernetes-application-developer/learn/lecture/12504382#overview)
-- [Terraform](https://www.credly.com/badges/bf0a43c5-3932-4778-bead-7a7a6c6a81e0)
-- langraph, cursor, claude code, code rabbit etc...
-
 ## 📬 Contact Me    
 - ✉️ Email: krpeppermint100@gmail.com  
 - 🌐 Blog: [Medium 기술 블로그](https://medium.com/peppermint100)
